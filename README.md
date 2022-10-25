@@ -1,1 +1,1 @@
-# threadsAndCounter
+# threads-and-counter
