@@ -1,6 +1,6 @@
-package com.epam.threadsandcounter.runnable;
+package com.patiun.threadsandcounter.runnable;
 
-import com.epam.threadsandcounter.entity.Counter;
+import com.patiun.threadsandcounter.entity.Counter;
 
 public class CounterIncrementer implements Runnable {
 

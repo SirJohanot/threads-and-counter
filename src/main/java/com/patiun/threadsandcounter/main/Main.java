@@ -1,11 +1,10 @@
-package com.epam.threadsandcounter.main;
+package com.patiun.threadsandcounter.main;
 
-import com.epam.threadsandcounter.entity.Counter;
-import com.epam.threadsandcounter.runnable.CounterIncrementer;
+import com.patiun.threadsandcounter.entity.Counter;
+import com.patiun.threadsandcounter.runnable.CounterIncrementer;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
-import java.util.concurrent.TimeUnit;
 import java.util.stream.IntStream;
 
 public class Main {

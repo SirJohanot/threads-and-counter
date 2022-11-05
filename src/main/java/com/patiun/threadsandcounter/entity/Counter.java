@@ -1,4 +1,4 @@
-package com.epam.threadsandcounter.entity;
+package com.patiun.threadsandcounter.entity;
 
 public class Counter {
 
